@@ -1,2 +1,2 @@
-# BI-Portfolio
-A curated collection of real-world BI projects demonstrating skills in data extraction (SQL), transformation (Power Query, VBA), and visualization (Power BI, Excel).
+# Project_Portfolio
+A curated collection of simple data modeling and scripting projects  using open-source tools.
